@@ -1,0 +1,11 @@
+C:\Users\maria\source\repos\TP3_C#\Livros\bin\Debug\net6.0\Livros.deps.json
+C:\Users\maria\source\repos\TP3_C#\Livros\bin\Debug\net6.0\Livros.dll
+C:\Users\maria\source\repos\TP3_C#\Livros\bin\Debug\net6.0\Livros.pdb
+C:\Users\maria\source\repos\TP3_C#\Livros\obj\Debug\net6.0\Livros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\TP3_C#\Livros\obj\Debug\net6.0\Livros.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\TP3_C#\Livros\obj\Debug\net6.0\Livros.AssemblyInfo.cs
+C:\Users\maria\source\repos\TP3_C#\Livros\obj\Debug\net6.0\Livros.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\TP3_C#\Livros\obj\Debug\net6.0\Livros.dll
+C:\Users\maria\source\repos\TP3_C#\Livros\obj\Debug\net6.0\refint\Livros.dll
+C:\Users\maria\source\repos\TP3_C#\Livros\obj\Debug\net6.0\Livros.pdb
+C:\Users\maria\source\repos\TP3_C#\Livros\obj\Debug\net6.0\ref\Livros.dll

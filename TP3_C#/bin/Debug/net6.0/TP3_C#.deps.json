@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TP3_C#/1.0.0": {
+        "dependencies": {
+          "Estante": "1.0.0",
+          "Livros": "1.0.0"
+        },
+        "runtime": {
+          "TP3_C#.dll": {}
+        }
+      },
+      "Estante/1.0.0": {
+        "dependencies": {
+          "Livros": "1.0.0"
+        },
+        "runtime": {
+          "Estante.dll": {}
+        }
+      },
+      "Livros/1.0.0": {
+        "runtime": {
+          "Livros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TP3_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Estante/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Livros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
